@@ -1,0 +1,22 @@
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    background-color: bisque;
+    color: black;
+    position: relative;
+}
+
+h1 {
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

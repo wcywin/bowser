@@ -1,0 +1,25 @@
+
+{
+  "browser_specific_settings": {
+    "Chrome": {
+      "latest_version": "71",
+      "before_latest_version": "70"
+    },
+    "Firefox": {
+      "latest_version": "64",
+      "before_latest_version": "63"
+    },
+    "Opera": {
+      "latest_version": "57",
+      "before_latest_version": "56"
+    },
+    "Safari": {
+      "latest_version": "12",
+      "before_latest_version": "11"
+    },
+    "Microsoft Edge": {
+      "latest_version": "18",
+      "before_latest_version": "17"
+    }
+  }
+}

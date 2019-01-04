@@ -1,0 +1,15 @@
+{
+  "name": "detector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bowser": "^2.0.0-beta.3",
+    "live-server": "^1.2.1"
+  }
+}
